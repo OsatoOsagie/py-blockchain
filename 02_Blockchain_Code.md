@@ -88,5 +88,7 @@ Add some lines printing the contents of the chain and calling ```mine_block```
 
 Verify that you understand what's happening.
 
+Where would you add some "data" to this chain e.g. if it were a crypto-currency where are the transactions for each block stored?
+
 ### 8. Add flask
 Try running the enhanced version ```flask_blockchain.py```. This allows you to interact with the chain a little easier in a web browser.
